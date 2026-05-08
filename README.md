@@ -7,7 +7,7 @@ A self-contained, responsive web application for engineering students to master 
 - Device modeling (CMOS, BJT, FinFET)
 - Timing analysis & clock distribution
 
-**Live Demo:** *[](https://obidombieonimuonyamfo.github.io/Digital_IC_Q-A/)*
+**Live Demo:** *[https://obidombieonimuonyamfo.github.io/Digital_IC_Q-A/]*
 
 ## How It Works
 
